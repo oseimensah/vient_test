@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VienTest</string>
+    <string name="retry">Retry</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
